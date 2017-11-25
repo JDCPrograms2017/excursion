@@ -4,3 +4,8 @@ h1#top-title {
   text-align: center;
   font-size: 50px;
 }
+.download-link {
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+}
