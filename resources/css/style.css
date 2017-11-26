@@ -24,7 +24,7 @@ body {
   color: gray;
   font-size: 21px;
 }
-#coming-soon {
+#coming-soon p {
   color: white;
   font-size: 42px;
   font-weight: bold;
