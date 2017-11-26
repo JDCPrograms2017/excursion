@@ -15,7 +15,7 @@ body {
   background-color: black;
   text-align: center;
 }
-h3#middle-title {
+#middle-title h3 {
   color: white;
   font-weight: 300;
   font-size: 42px;
