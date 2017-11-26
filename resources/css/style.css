@@ -1,6 +1,6 @@
 h1#top-title {
   color: white;
-  font-weight: normal;
+  font-weight: bold;
   text-align: center;
   font-size: 50px;
 }
@@ -12,4 +12,5 @@ h1#top-title {
 body {
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
