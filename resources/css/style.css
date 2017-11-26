@@ -15,12 +15,12 @@ body {
   background-color: black;
   text-align: center;
 }
-#middle-title h3 {
+#middle-title {
   color: white;
   font-weight: bold;
   font-size: 42px;
 }
-#excursion-desc p {
+#excursion-desc {
   color: gray;
   font-size: 21px;
 }
