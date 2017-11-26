@@ -1,4 +1,4 @@
-#top-title {
+.white-title {
   color: white;
   font-weight: bold;
   text-align: center;
@@ -14,8 +14,4 @@ body {
   font-family: Verdana;
   background-color: black;
   text-align: center;
-}
-#middle-title {
-  color: white;
-  font-weight: 300;
 }
