@@ -3,7 +3,7 @@
   font-weight: bold;
   text-align: center;
   font-size: 50px;
-  background-image: image(./resources/images/camp.jpg);
+  background-image: url(https://images3.alphacoders.com/151/151005.jpg);
 }
 .download-link {
   text-align: center;
