@@ -3,6 +3,7 @@
   font-weight: bold;
   text-align: center;
   font-size: 50px;
+  background-image: image(./resources/images/camp.jpg);
 }
 .download-link {
   text-align: center;
